@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am currently in the final year of my Bachelor's in Psychology at [Pontifical Catholic University of Peru](https://en.departamento-psicologia.pucp.edu.pe), where I work as a Research Assistant. I also work as a Research Assistant at the [Mood Disorders Laboratory](https://labs.la.utexas.edu/beevers/) at the [University of Texas at Austin](https://www.utexas.edu).
 
-I am interested in studying and conducting research at the intersection of mathematics, psychology and neurosciences, with a focus on learning dynamics in brains and machines (:
+I'm interested in understanding learning in humans and machines, for which I like using mathematical modeling and computers doing _beep boop beep_. 
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
